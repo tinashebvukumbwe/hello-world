@@ -8,7 +8,7 @@
     <input type="text" placeholder=" Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b> mobilen: </b></label>
+    <label for="mobile"><b> mobile: </b></label>
     <input type="text" placeholder="moible number" name="mobile" id="mobile" required>
     <br>
 
